@@ -1,6 +1,12 @@
 # Potato Leaf Disease Detection
 ![Potato Leaf Disease](https://user-images.githubusercontent.com/67580321/171865245-b8f4a8c5-978b-4284-900b-3b7dd0b638a1.jpg)
 
+## Live Demo
+🎥 **[YouTube Link]**  
+*Embed a video or link here showcasing the working of the project.*
+
+---
+
 ## Problem Statement
 Farmers cultivating potatoes often face severe financial losses due to diseases affecting their crops. Among the most common and devastating are **Early Blight** and **Late Blight**:
 - **Early Blight**: Caused by the *Alternaria solani* fungus, this disease primarily affects older leaves, reducing yield significantly.
@@ -45,15 +51,10 @@ The dataset for this project was sourced from Kaggle's **PlantVillage Dataset**.
    - Trained the model on GPU for faster computation.
    - Evaluated using metrics such as accuracy, precision, and recall.
 
-4. **Deployment**:
-   - Model integrated into a user-friendly web interface using **Flask**.
-   - Option for users to upload images and receive predictions in real-time.
-
 ### Technologies Used:
 - **Programming Languages**: Python
 - **Deep Learning Libraries**: TensorFlow, Keras
 - **Visualization Tools**: Matplotlib, Seaborn
-- **Web Framework**: Flask
 - **Dataset Source**: Kaggle
 - **Development Environment**: Jupyter Notebook, VS Code
 
@@ -65,19 +66,3 @@ The dataset for this project was sourced from Kaggle's **PlantVillage Dataset**.
 3. Outputs the disease type (Healthy, Early Blight, Late Blight) and displays treatment recommendations.
 
 ---
-
-## Live Demo
-🎥 **[YouTube Link]**  
-*Embed a video or link here showcasing the working of the project.*
-
----
-
-## Installation and Usage
-### Prerequisites:
-- Python 3.7 or higher
-- Libraries: TensorFlow, Keras, Flask, Matplotlib, NumPy, OpenCV
-
-### Steps to Run the Project:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/Potato-Leaf-Disease-Detection.git
