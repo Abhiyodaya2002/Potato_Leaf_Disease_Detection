@@ -2,8 +2,8 @@
 ![Potato Leaf Disease](https://user-images.githubusercontent.com/67580321/171865245-b8f4a8c5-978b-4284-900b-3b7dd0b638a1.jpg)
 
 ## Live Demo
-🎥 **[YouTube Link]**  
-*Embed a video or link here showcasing the working of the project.*
+🎥 **[YouTube Link](https://www.youtube.com/watch?v=KwDMMOozhhA)**  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KwDMMOozhhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
